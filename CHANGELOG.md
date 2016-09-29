@@ -1,5 +1,7 @@
 ## master
 
+* Add specs for `Danger::EnvironmentManager` - Juanito Fatas
+
 ## 3.4.0
 
 * Simplify initialization of Octokit client in request_sources/github.rb - Juanito Fatas
